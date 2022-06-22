@@ -1,5 +1,5 @@
 # Azure-quickstart-templates-for-startups
-Microsoft for Startups Family 限定オファー！ 作りたいものに最も近いテンプレートを **「ボタンクリック」** で作成し、開発を加速しましょう。**「Deploy to Azure」** をクリックしリソースをデプロイしたら、あとはお客様のご要件に合わせて柔軟にカスタマイズ頂けます。
+Microsoft for Startups Family 限定オファー！ 作りたいものに最も近いテンプレートを **「ボタンクリック」** で作成し、開発を加速しましょう。**「Deploy to Azure」** をクリックしリソースをデプロイしたら、あとは皆様のご要件に合わせて柔軟にカスタマイズ頂けます。
 
 ## 事前準備
 　1. [Founders Hubポータル](https://startups.microsoft.com/) にサインインをし、Azureをアクティベーション
